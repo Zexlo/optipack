@@ -1,1 +1,1 @@
-# OptiPack
+<img src="https://raw.githubusercontent.com/wyndchyme/optipack/refs/heads/main/docs/optipack_large.png">
